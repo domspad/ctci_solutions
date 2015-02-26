@@ -1,3 +1,7 @@
+	#incorporate
+#############################
+#Divide
+#############################
 
 def sortWithStack(stack, reverse=False) :
 	"sorts stack (increasing) using another stack"
