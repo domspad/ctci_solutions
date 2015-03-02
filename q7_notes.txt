@@ -1,0 +1,24 @@
+
+what's our goal with the object? 
+
+what are the core objects? which will be subclassed?
+
+what are some methods we'd want with the classes?
+
+how will the methods work? how to represent the data?
+
+--------------
+Implement card deck for use in different games
+
+core objects
+
+deck
+card
+suit
+pointValue
+hand
+
+getCard(suit s, Number n)?
+
+
+__________
